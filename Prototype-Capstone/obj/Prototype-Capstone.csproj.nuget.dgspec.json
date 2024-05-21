@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCODES!!!\\Prototype-Capstone\\Prototype-Capstone\\Prototype-Capstone.csproj": {}
+    "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Prototype-Capstone.csproj": {}
   },
   "projects": {
-    "D:\\VSCODES!!!\\Prototype-Capstone\\Prototype-Capstone\\Prototype-Capstone.csproj": {
+    "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Prototype-Capstone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCODES!!!\\Prototype-Capstone\\Prototype-Capstone\\Prototype-Capstone.csproj",
+        "projectUniqueName": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Prototype-Capstone.csproj",
         "projectName": "Prototype-Capstone",
-        "projectPath": "D:\\VSCODES!!!\\Prototype-Capstone\\Prototype-Capstone\\Prototype-Capstone.csproj",
+        "projectPath": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Prototype-Capstone.csproj",
         "packagesPath": "C:\\Users\\cuteaq\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCODES!!!\\Prototype-Capstone\\Prototype-Capstone\\obj\\",
+        "outputPath": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cuteaq\\AppData\\Roaming\\NuGet\\NuGet.Config",

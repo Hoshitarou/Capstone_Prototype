@@ -1,8 +1,30 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lyceum of Alabang Document Management System</title>
+    <link rel="stylesheet" href="~/css/site.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sahitya:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-brand">
+            <img src="~/icon/loalog2.png" alt="Lyceum of Alabang Logo" class="logo">
+            <span>Lyceum of Alabang Document Management System</span>
+        </div>
+    </nav>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+        <div class="login-box">
+            <h2>Welcome!</h2>
+            <p>Access the Document Management System here</p>
+            <input type="text" id="credentials" placeholder="Enter your credentials">
+            <button onclick="validateCredentials()">Next</button>
+        </div>
+        
+	
+    <script src="script.js"></script>
+</body>
+</html>

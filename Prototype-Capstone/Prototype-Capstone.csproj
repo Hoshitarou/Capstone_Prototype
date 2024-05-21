@@ -7,4 +7,8 @@
     <RootNamespace>Prototype_Capstone</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\icon\" />
+  </ItemGroup>
+
 </Project>
