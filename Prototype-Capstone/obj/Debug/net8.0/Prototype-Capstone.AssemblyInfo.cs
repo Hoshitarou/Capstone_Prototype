@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prototype-Capstone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35408fbf12aca3649bc1b2e18bb51316c19c5836")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prototype-Capstone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prototype-Capstone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
