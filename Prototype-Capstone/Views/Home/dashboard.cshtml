@@ -7,16 +7,64 @@
     <link rel="stylesheet" href="~/css/site.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Sahitya:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sahitya:wght@400;700&display=swap" rel="stylesheet">   
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body>
     <nav class="navbar">
         <div class="navbar-brand">
             <img src="~/icon/loalog2.png" alt="Lyceum of Alabang Logo" class="logo">
             <span>Lyceum of Alabang Document Management System</span>
-            <ul></ul>
+        </div>
+        <div class="user">
+            <img src="~/icon/user.png" class="user-icon"/>
+            <span>hi! user</span>
         </div>
     </nav>
+
+    <div class="dashboard-container">
+
+    <div class="sidebar">
+     <div class="top">
+       
+        <ul>
+            <li>
+                <a href="#">
+                    <i class="bx bxs-dashboard"></i>
+                    <span class="nav-item">Dashboard</span>
+                </a>
+                 <span class="tooltip">Dashboard</span>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="bx bxs-file-pdf"></i>
+                    <span class="nav-item">Upload PDF</span>
+                </a>
+                <span class="tooltip">Upload PDF</span>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="bx bxs-search"></i>
+                    <span class="nav-item">Search</span>
+                </a>
+                <span class="tooltip">Search</span>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="bx bxs-log-out"></i>
+                    <span class="nav-item">LogOut</span>
+                </a>
+                <span class="tooltip">Logout</span>
+            </li>
+        </ul>
+     </div>
+	</div>
+
+		
+	</div>
+    
     <script src="script.js"></script>
+
 </body>
 </html>

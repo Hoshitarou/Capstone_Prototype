@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\icon\\loalog2.png"
     },
     {
+      "Id": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\icon\\user.png",
+      "PackagePath": "staticwebassets\\icon\\user.png"
+    },
+    {
       "Id": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
