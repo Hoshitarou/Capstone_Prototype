@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="site.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sahitya:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="login-container">
+        <nav class="navbar">
+            <div class="navbar-brand">
+                <img src="~/icon/loalog2.png" alt="Lyceum of Alabang Logo" class="logo">
+                <span>Lyceum of Alabang Document Management System</span>
+            </div>
+        </nav>
+
+        <h2>Login</h2>
+        <h3> Enter your credentials to access the system </h3>
+        <form id="loginForm">
+            <div class="form-group">
+                <label class="label1" for="username">Username</label>
+				<input class="username" type="text" id="username" name="username" required>
+            </div>
+            <div class="form-group">
+                <label class="label2" for="password">Password</label>
+                <input class="password" type="password" id="password" name="password" required>
+            </div>
+            <button class="login" type="submit">Login</button>
+        </form>
+        <p id="errorMessage" class="error-message"></p>
+
+		
+    
+    </div>
+	<footer>
+		<div class="footer">
+			<p>© 2024 Lyceum of Alabang. All Rights Reserved.</p>
+		</div>
+	</footer>
+   
+
+    <script src="script.js"></script>
+</body>
+</html>

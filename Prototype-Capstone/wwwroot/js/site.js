@@ -4,11 +4,12 @@
 // Write your JavaScript code.
 
 function validateCredentials() {
-    const credentials = document.getElementById('credentials').value;
-    if (credentials) {
-        alert('Credentials entered: ' + credentials);
-        // Here you can add more validation or redirection
+    const credentials = document.getElementById('credentials').value.trim().toLowerCase();
+    if (credentials === 'admin' || credentials === 'registrar') {
+        alert('Welcome ' + credentials + '! Proceeding to the login page.');
+        
+        window.location.href = '~/Views/login.cshtml'; 
     } else {
-        alert('Please enter your credentials');
+        alert('Invalid credentials. Please enter "admin" or "registrar".');
     }
 }
