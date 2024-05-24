@@ -1,8 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+     font-family: "Sahitya", serif;
+}
+
+
+
 body {
-    font-family: "Sahitya", serif;
     display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
     margin: 0;
     background-color: #f5f5f5;
@@ -10,6 +16,7 @@ body {
 
 .container {
     text-align: center;
+    margin:0;
 }
 
 .navbar {
@@ -20,32 +27,59 @@ body {
     position: absolute;
     width: 100%;
     top: 0;
+    margin: 0;
+    margin-left:0;
+    border: 1px solid #ccc;
 }
 
 .navbar-brand {
     display: flex;
     align-items: center;
+    justify-content:left;
+    
 }
 
 .navbar .logo {
     width: 50px;
     height: 50px;
-    margin-right: 10px;
+    left: auto;
+    margin-right: 35px;
+    justify-content: left;
 }
 
 .navbar span {
     font-size: 20px;
     font-weight: bold;
     color: #333;
+    left:0;
 }
 
-    .login-box h2 {
-        margin-top: 0;
-        color: #1d4e89;
-    }
+.user {
+    margin-left:auto;
+    margin-right:30px;
+}
+
+.user-icon{
+    margin-right:10px;
+    width:25px;
+}
+
+.login-box {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 25%;
+}
+
+.login-box h2 {
+    color: #1d4e89;
+    
+}
 
     .login-box p {
         color: #666;
+       
     }
 
 .login-box input {
@@ -58,6 +92,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+        
 }
 
 .login-box button {
@@ -82,6 +117,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
+    margin-top: 25%;
 }
 
 h2 {
@@ -169,3 +205,44 @@ footer {
     bottom: 0;
     margin-left:25%;
 }
+
+.dashboard-container{
+    margin:0;
+
+}
+
+.sidebar {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    height: 100vh;
+    width: 200px;
+    background-color: #e6e6e6;
+    padding: 0.4rem 0.8rem;
+    list-style-type:none;
+    margin:0;
+}
+
+    .sidebar ul li{
+        position:relative;
+        list-style-type:none;
+        height:30px;
+        width:90%;
+        margin:0.8rem auto;
+        line-height: 50px;
+       
+    }
+
+    .sidebar ul li a {
+        color: #333;
+        text-decoration: none;
+        display:flex;
+        align-items:center;
+        border-radius:0.8rem;
+    }
+
+        .sidebar ul li a:hover{
+            background-color:#faecca;
+
+        }
+

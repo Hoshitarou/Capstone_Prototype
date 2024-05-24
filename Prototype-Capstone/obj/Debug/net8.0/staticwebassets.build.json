@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nPS/z5F+xWOyLPogYOIpGVBGatOiHal21HEZyHLVRMQ=",
+  "Hash": "msZki9WoE0ttyLnn5ksVaHtfjFqxwjPVr31szbBHMIw=",
   "Source": "Prototype-Capstone",
   "BasePath": "_content/Prototype-Capstone",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon\\loalog2.png"
+    },
+    {
+      "Identity": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\icon\\user.png",
+      "SourceId": "Prototype-Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\",
+      "BasePath": "_content/Prototype-Capstone",
+      "RelativePath": "icon/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon\\user.png"
     },
     {
       "Identity": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\js\\site.js",

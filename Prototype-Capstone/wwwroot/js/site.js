@@ -3,13 +3,10 @@
 
 // Write your JavaScript code.
 
-function validateCredentials() {
-    const credentials = document.getElementById('credentials').value.trim().toLowerCase();
-    if (credentials === 'admin' || credentials === 'registrar') {
-        alert('Welcome ' + credentials + '! Proceeding to the login page.');
-        
-        window.location.href = '~/Views/login.cshtml'; 
-    } else {
-        alert('Invalid credentials. Please enter "admin" or "registrar".');
-    }
-}
+let btn = document.querySelector('#btn')
+let sidebar = document.querySelector('.sidebar')
+
+btn.onclick = function () {
+    sidebar.classList.toggle('active');
+
+};
