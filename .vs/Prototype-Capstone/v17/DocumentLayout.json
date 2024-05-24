@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\github\\Capstone_Prototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,40 +23,56 @@
       "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|solutionrelative:prototype-capstone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56E1C05-CE38-488D-90EA-AA6008D8C9F3}|Prototype-Capstone\\Prototype-Capstone.csproj|d:\\github\\capstone_prototype\\prototype-capstone\\wwwroot\\icon\\loalog2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -70,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,33 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\login.cshtml",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Home\\login.cshtml",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\login.cshtml",
-              "RelativeToolTip": "Prototype-Capstone\\Views\\Home\\login.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAKAAAA",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Prototype-Capstone\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T14:20:31.435Z",
+              "WhenOpened": "2024-05-21T17:33:26.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Program.cs",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Program.cs",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Program.cs",
-              "RelativeToolTip": "Prototype-Capstone\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAmwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T14:18:52.531Z",
+              "DocumentIndex": 2,
+              "Title": "dashboard.cshtml",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\dashboard.cshtml",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Home\\dashboard.cshtml",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\dashboard.cshtml",
+              "RelativeToolTip": "Prototype-Capstone\\Views\\Home\\dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T17:38:28.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Home\\Privacy.cshtml",
@@ -129,124 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Prototype-Capstone\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-21T17:45:23.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Prototype-Capstone\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCEAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:34:54.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Prototype-Capstone\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-21T17:34:51.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Prototype-Capstone\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T17:33:26.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Prototype-Capstone\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T17:33:31.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Prototype-Capstone\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T17:33:28.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Prototype-Capstone\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T14:30:07.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Prototype-Capstone\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T14:09:05.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Prototype-Capstone\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T14:29:45.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\appsettings.json",
               "RelativeDocumentMoniker": "Prototype-Capstone\\appsettings.json",
@@ -259,7 +158,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Prototype-Capstone\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:29:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Prototype-Capstone\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:33:28.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Prototype-Capstone\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:09:05.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Home\\login.cshtml",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Prototype-Capstone\\Views\\Home\\login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:20:31.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Program.cs",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Program.cs",
+              "RelativeToolTip": "Prototype-Capstone\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:18:52.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Prototype-Capstone\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T17:33:31.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Prototype-Capstone\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-24T17:58:41.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Prototype-Capstone\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-21T17:34:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Prototype-Capstone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -272,7 +275,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\wwwroot\\favicon.ico",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "Prototype-Capstone\\wwwroot\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-05-24T18:04:21.666Z",
+              "EditorCaption": " - Icon [16x16, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Prototype-Capstone\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:34:54.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Prototype-Capstone\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T18:04:08.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Prototype-Capstone\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-21T17:45:23.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Prototype-Capstone\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Prototype-Capstone\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:30:07.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "loalog2.png - PNG [150x150, 32 bit, PNG]",
               "DocumentMoniker": "D:\\github\\Capstone_Prototype\\Prototype-Capstone\\wwwroot\\icon\\loalog2.png",
               "RelativeDocumentMoniker": "Prototype-Capstone\\wwwroot\\icon\\loalog2.png",
